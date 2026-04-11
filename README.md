@@ -13,6 +13,12 @@ The notebook is structured in two steps:
 2. **Test** multiple forecasting approaches to see what actually predicts it best  
 
 ---
+## Repository structure
+- `dutch_macro_financial_pressure_index.ipynb` — main notebook with the full workflow
+- `datasets/` — source datasets used in the analysis
+- `requirements.txt` — Python dependencies
+
+---
 
 ## Project Motivation
 Economic stress does not appear in one variable alone. It shows up through a combination of:
